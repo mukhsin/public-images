@@ -1,0 +1,11 @@
+Here is my rules
+[Image for rules](https://github.com/mukhsin/public-images/blob/master/Screenshot%20from%202018-06-13%2011-59-42.png)
+
+This is the test code block
+[Image for test code block](https://github.com/mukhsin/public-images/blob/master/Screenshot%20from%202018-06-13%2012-00-56.png)
+
+This is what I got from postman (on development mode)
+[Image for postman result](https://github.com/mukhsin/public-images/blob/master/Screenshot%20from%202018-06-13%2012-02-07.png)
+
+This is what I got from terminal (on test mode)
+[Image for console.log() in terminal](https://github.com/mukhsin/public-images/blob/master/Screenshot%20from%202018-06-13%2012-02-07.png)
